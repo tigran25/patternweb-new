@@ -1,0 +1,20 @@
+{
+  "name": "patternweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipper-js": "^1.0.2",
+    "rxjs": "^5.5.2",
+    "transducers-js": "^0.4.174"
+  },
+  "devDependencies": {
+    "@types/transducers-js": "^0.4.4"
+  }
+}
